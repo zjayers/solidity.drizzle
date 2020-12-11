@@ -1,8 +1,7 @@
 # Solidity Drizzle
-[![GitHub Release](https://img.shields.io/github/release/zjayers/solidity.drizzle.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/solidity.drizzle.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/solidity.drizzle.svg?style=flat)](https://github.com/zjayers/solidity.drizzle/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/solidity.drizzle.svg?style=flat)](https://github.com/zjayers/solidity.drizzle/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/solidity.drizzle.svg?maxAge=25000)](https://github.com/zjayers/solidity.drizzle/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/solidity.drizzle/blob/master/LICENSEs)
 
 ## Description
 
